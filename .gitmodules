@@ -1,3 +1,0 @@
-[submodule "test_sub_main"]
-	path = prisma
-	url = https://github.com/JamalSanei/test_sub_main
